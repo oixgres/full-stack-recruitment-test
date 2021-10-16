@@ -4,7 +4,7 @@ import Header from '../Header';
 import { Flights } from '../Flights';
 
 import STYLES from './App.scss';
-import 'semantic-ui-css/semantic.min.css';
+// import 'semantic-ui-css/semantic.min.css';
 
 
 const getClassName = (className) => STYLES[className] || 'UNKNOWN';

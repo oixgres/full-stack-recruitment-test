@@ -1,4 +1,4 @@
-import 'semantic-ui-css/semantic.min.css';
+// import 'semantic-ui-css/semantic.min.css';
 import 'bpk-stylesheets';
 import 'bpk-stylesheets/font';
 import React from 'react';
